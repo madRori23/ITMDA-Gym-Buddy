@@ -32,8 +32,10 @@
         <activity android:name=".LandingPage" />
         <activity android:name=".PassHolder" />
         <activity android:name=".ViewSchedule" />
+        <activity android:name=".UpdateSchedule" />
     </application>
 
 
 </manifest>
+
 
